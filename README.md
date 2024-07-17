@@ -32,6 +32,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### Example
 
+# Header
+
+<h1>HEADER</h1>
+
 ```md
 # This is an `<h1>` header, which is the largest
 ## This is an `<h2>` header
